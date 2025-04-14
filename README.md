@@ -1,7 +1,7 @@
 
 # ☕ Coffee Sales Analysis Dashboard  
 
-![Dashboard Preview]![Screenshot 2025-04-15 003126](https://github.com/user-attachments/assets/5a12e4db-3057-470a-b8d0-5bf7f58ed140)
+Dashboard Screenshot![Screenshot 2025-04-15 003126](https://github.com/user-attachments/assets/5a12e4db-3057-470a-b8d0-5bf7f58ed140)
   
 
 ## 📋 **Project Overview**  
@@ -55,5 +55,4 @@ Coffee-Sales-Dashboard/
 │   ├── dataset_preview.png
 │   └── pivot_charts.png
 └── README.md
-## 📷 Dashboard Screenshot
-![Screenshot 2025-04-15 003126](https://github.com/user-attachments/assets/f342426a-2c67-4431-b283-13b356a41973)
+
